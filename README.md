@@ -3,7 +3,7 @@
 Proffessional website
 <html>
 <head>
-<title>First Page</title>
+First Page
 </head>
 <body>
 <p>This website Gives you the information about
